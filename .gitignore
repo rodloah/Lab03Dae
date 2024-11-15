@@ -1,0 +1,20 @@
+# Ignorar archivos de React
+gif-search/node_modules/
+gif-search/build/
+
+# Ignorar archivos de .NET Core
+MyMicroservice/bin/
+MyMicroservice/obj/
+
+# Ignorar archivos de configuración local
+*.env
+*.secret
+.vscode/
+.idea/
+*.DS_Store
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar Docker temporales
+*.pid
